@@ -1,4 +1,4 @@
-# Hello-World-
+# Hello-World
 This is my hello to the world!
 
 I'm not sure what to put here so I guess I'll say my name is Alexander Justin Eugene Gentry, but normally I introduce myself as Alex.
